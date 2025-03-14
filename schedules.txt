@@ -1,0 +1,4 @@
+Database Management,tuesday 1:00 p.m.
+Python Programming,monday 4:00 p.m.
+Information System,wednesday 8:00 a.m.
+Operating System,friday 9:00 a.m.
