@@ -1,0 +1,5 @@
+Python Programming,Basic Python
+Database Management,Programming
+Information System,Introduction to IS
+Operating System,OS System
+Digital Thinking,Learn more about internet
