@@ -1,0 +1,4 @@
+Python Programming,1,Naviin
+Database Management,2,Kave
+Information System,3,Hafeez
+Operating System,4,Moses
